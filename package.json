@@ -1,5 +1,5 @@
 {
-  "name": "fake-server",
+  "name": "fake-api-nlw5-podcastr",
   "version": "1.0.0",
   "description": "fake server with fake database",
   "main": "server.js",
